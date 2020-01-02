@@ -68,6 +68,7 @@
 - [db_facts](http://stoics.org.uk/~nicos/sware/db_facts) - Centric abstraction layer for SQL.
 - [bio_db](http://stoics.org.uk/~nicos/sware/bio_db) - Biological datasets manager.
 - [prosqlite](http://stoics.org.uk/~nicos/sware/prosqlite) - SQLite interface.
+- [terminusdb](https://github.com/terminusdb/terminus-server) - Model driven graph database. 
 
 ## Date
 
